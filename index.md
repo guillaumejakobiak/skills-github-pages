@@ -1,4 +1,3 @@
----
 👋 Hi, I'm Guillaume Jakobiak
 
 💻 Junior IT Administrator · 🎓 Digital Learning · 🧠 Power Skills · 🏆 Skills Portfolio
@@ -8,6 +7,12 @@ Learning continuously. Building digitally. Sharing openly.
 Passionate about e-learning systems, digital credentials and crowdsourced learning, I build my professional journey through continuous learning, certifications, digital badges, assessments and practical projects.
 
 My goal is to develop a multidisciplinary profile combining:
+
+I am a Junior IT Administrator developing a multidisciplinary profile at the intersection of IT administration, digital learning, cybersecurity, cloud technologies, artificial intelligence and power skills.
+
+My professional journey is built through continuous learning, certifications, digital badges, assessments and practical projects. I use GitHub as a public space to document my progress, share projects and build a verifiable professional portfolio.
+
+My goal is to combine:
 
 IT Administration × Digital Learning × Cybersecurity × Cloud × AI × Power Skills
 
@@ -28,6 +33,8 @@ IT Administration × Digital Learning × Cybersecurity × Cloud × AI × Power S
 🚀 MY JOURNEY
 
 My professional development is built around a continuous learning loop:
+
+My professional development follows a continuous learning loop:
 
        ┌───────────────┐
        │    LEARN      │
@@ -77,6 +84,8 @@ My professional development is built around a continuous learning loop:
 
 I continuously explore different learning ecosystems to understand how courses, assessments, gamification, credentials and digital identity can work together.
 
+I explore digital learning ecosystems to understand how courses, assessments, gamification, credentials and digital identity can work together.
+
 🏆 Learning ecosystem
 
 Courses
@@ -120,6 +129,8 @@ My objective is to create a verifiable digital representation of my learning jou
 
 My CPD project aims to organize my learning history into a structured and shareable portfolio.
 
+My CPD project organizes my learning history into a structured and shareable portfolio.
+
 🎯 Objective
 
 Transform learning data into a clear professional story:
@@ -144,6 +155,8 @@ https://gjakobiak.github.io/CPD/
 Technical skills are only one part of professional development.
 
 I'm also exploring:
+
+I am also developing:
 
 🧠 Skill
 
@@ -189,6 +202,8 @@ Analysis & reasoning
 
 I'm exploring how AI can improve:
 
+I explore how AI and digital tools can improve:
+
 📚 Learning
 
 🧠 Skill development
@@ -207,6 +222,27 @@ I'm exploring how AI can improve:
 
                 ┌─────────────────┐
                 │   IT FUNDAMENTALS│
+                └────────┬────────┘
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+       SYSTEMS       NETWORKING       CLOUD
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+                 CYBERSECURITY
+                         │
+                         ↓
+                        AI
+                         │
+                         ↓
+              DIGITAL LEARNING
+                         │
+                         ↓
+                 SKILLS PORTFOLIO
+
+                ┌─────────────────┐
+                │  IT FUNDAMENTALS│
                 └────────┬────────┘
                          │
           ┌──────────────┼──────────────┐
@@ -303,6 +339,8 @@ My long-term objective is to build a professional profile at the intersection of
 
 I'm using GitHub not only as a code repository, but also as a public learning and professional development space.
 
+I use GitHub not only as a code repository, but also as a public learning and professional development space.
+
 My approach
 
 Learn → Experiment → Validate → Document → Share
@@ -311,6 +349,8 @@ Learn → Experiment → Validate → Document → Share
 
 If you're interested in:
 
+If you are interested in:
+
 IT · Digital Learning · Open Badges · Skills · AI · CPD · Gamification · Digital Credentials
 
 feel free to explore my projects and digital profiles.
@@ -318,4 +358,3 @@ feel free to explore my projects and digital profiles.
 🚀 Keep learning. Keep building. Keep sharing.
 
 Guillaume Jakobiak
----
